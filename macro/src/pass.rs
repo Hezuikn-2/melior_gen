@@ -1,5 +1,5 @@
 use convert_case::{Case, Casing};
-use proc_macro::TokenStream;
+use proc_macro2::TokenStream;
 use proc_macro2::{Ident, Span};
 use quote::quote;
 use std::error::Error;
