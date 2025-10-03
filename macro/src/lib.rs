@@ -1,10 +1,10 @@
-mod attribute;
-mod dialect;
-mod operation;
-mod parse;
-mod pass;
-mod r#type;
-mod utility;
+pub mod attribute;
+pub mod dialect;
+pub mod operation;
+pub mod parse;
+pub mod pass;
+pub mod r#type;
+pub mod utility;
 
 use dialect::DialectInput;
 use parse::{DialectOperationSet, IdentifierList, PassSet};
