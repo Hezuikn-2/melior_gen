@@ -1,5 +1,5 @@
 [package]
-name = "melior-macro"
+name = "melior-gen"
 description = "Internal macros for Melior"
 version = "0.18.0"
 edition = "2021"
