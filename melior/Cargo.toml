@@ -15,7 +15,7 @@ ods-dialects = []
 helpers = ["ods-dialects"]
 
 [dependencies]
-melior-macro = { version = "0.18.0", path = "../macro" }
+melior-gen = { version = "0.18.0", path = "../macro" }
 mlir-sys = "0.5.0"
 
 [dev-dependencies]
